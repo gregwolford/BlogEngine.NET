@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/themes/TheGreenHouse/PostView.ascx" hash="c4743150e" filehash="1af66db8ff11" flags="110000" assembly="App_Web_postview.ascx.fd9e9aa9" type="ASP.themes_thegreenhouse_postview_ascx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/themes/TheGreenHouse/PostView.ascx" />
+    </filedeps>
+</preserve>

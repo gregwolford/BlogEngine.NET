@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<post>
+  <author>Admin</author>
+  <title>Welcome to BlogEngine.NET 1.3</title>
+  <description>The description is used as the meta description as well as shown in the related posts. It is recommended that you write a description, but not mandatory</description>
+  <content>&lt;p&gt;
+If you see this post it means that BlogEngine.NET 1.3 is running and the hard part of creating your own blog is done. There is only one thing you need to do from this point on to take full advantage of the blog and that is to set up the first author profile. 
+&lt;/p&gt;
+&lt;h2&gt;Write Permissions&lt;/h2&gt;
+&lt;p&gt;
+To be able to log in to the blog and writing posts, you need to enable write permissions on the App_Data folder. If you&amp;rsquo;re blog is hosted at a hosting provider, you can either log into your account&amp;rsquo;s admin page or call the support. You need write permissions on the App_Data folder because all posts and comments are saved as XML files and placed in the App_Data folder. 
+&lt;/p&gt;
+&lt;h2&gt;Username and password&lt;/h2&gt;
+&lt;p&gt;
+When you&amp;#39;ve got write permissions to the App_Data folder, you need to change the username and password. Find the sign-in link located either at the bottom or top of the page depending on your current theme and click it. Now enter &amp;quot;admin&amp;quot; in both the username and password fields and click the button. You will now see an admin menu appear. It has a link to the &amp;quot;Users&amp;quot; admin page. From there you can change the username and password. 
+&lt;/p&gt;
+&lt;h2&gt;On the web &lt;/h2&gt;
+&lt;p&gt;
+You can find BlogEngine.NET on the &lt;a href="http://www.dotnetblogengine.net"&gt;official website&lt;/a&gt;. Here you&amp;#39;ll find tutorials, documentation, tips and tricks and much more. The ongoing development of BlogEngine.NET can be followed at &lt;a href="http://www.codeplex.com/blogengine"&gt;CodePlex&lt;/a&gt; where the daily builds will be published for anyone to download. 
+&lt;/p&gt;
+&lt;p&gt;
+Good luck and happy writing. 
+&lt;/p&gt;
+&lt;p&gt;
+The BlogEngine.NET team 
+&lt;/p&gt;
+</content>
+  <ispublished>True</ispublished>
+  <iscommentsenabled>True</iscommentsenabled>
+  <pubDate>2007-12-22 00:00:00</pubDate>
+  <lastModified>2007-12-22 12:45:14</lastModified>
+  <raters>3</raters>
+  <rating>4.4</rating>
+  <slug>Welcome-to-BlogEngineNET-13</slug>
+  <tags>
+    <tag>blog</tag>
+    <tag>welcome</tag>
+  </tags>
+  <comments />
+  <categories>
+    <category>19770e74-9ec9-4cde-b2ab-e5051aaaf348</category>
+  </categories>
+  <notifications />
+</post>

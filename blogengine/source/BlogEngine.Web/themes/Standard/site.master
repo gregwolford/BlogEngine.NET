@@ -1,0 +1,46 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="site.master.cs" Inherits="site" %>
+<%@ Register Src="SidePanel.ascx" TagName="InfoBox" TagPrefix="uc1" %>
+<%@ Import Namespace="BlogEngine.Core" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server" profile="http://gmpg.org/xfn/11">
+    <link rel="stylesheet" href="style.css" type="text/css" />
+    <link rel="shortcut icon" href="~/pics/blogengine.ico" type="image/x-icon"/>
+</head>
+<body>
+
+  <div id="header">
+    <h1><a href="<%=Utils.AbsoluteWebRoot %>" ><%=BlogSettings.Instance.Name %></a></h1>
+    <h2><%=BlogSettings.Instance.Description %></h2>
+  </div>
+  
+  <div id="menu">
+    <ul>
+      <li><a href="~/" runat="server" rel="home"><%=Resources.labels.home %></a></li>
+      <li><a href="~/archive.aspx" runat="server"><%=Resources.labels.archive %></a></li>
+      <li><a href="~/contact.aspx" runat="server"><%=Resources.labels.contact %></a></li>
+      <li><a href="<%=Utils.FeedUrl %>" class="feed"><img src="~/pics/rssButton.gif" alt="Feed" runat="server" /><%=Resources.labels.subscribe %></a></li>
+    </ul>
+  </div>
+  
+  <div id="body">    
+    <form runat="Server">
+      <div id="content">
+        <blog:SearchOnSearch runat="server" MaxResults="3" Headline="You searched for" Text="Here are some results for the search term on this website" />
+        <asp:ContentPlaceHolder ID="cphBody" runat="server" />
+        <p style="font-size:9px;text-align:center">
+        Powered by <a href="http://www.dotnetblogengine.net">BlogEngine.NET</a> <%=BlogSettings.Instance.Version() %><br />
+        Theme by <a href="http://www.madskristensen.dk">Mads Kristensen</a>
+        </p>
+      </div>
+      
+      <div id="sidepanel">
+        <uc1:InfoBox ID="InfoBox1" runat="server" />
+      </div>
+    </form>
+    
+  </div>
+
+</body>
+</html>

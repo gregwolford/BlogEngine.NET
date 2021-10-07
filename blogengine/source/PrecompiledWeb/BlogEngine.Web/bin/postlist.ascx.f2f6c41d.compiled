@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/User controls/PostList.ascx" hash="c4743150e" filehash="33b12302e93d211a" flags="110000" assembly="App_Web_postlist.ascx.f2f6c41d" type="ASP.user_controls_postlist_ascx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/User controls/PostList.ascx" />
+        <filedep name="/BlogEngine.Web/User controls/PostList.ascx.cs" />
+    </filedeps>
+</preserve>

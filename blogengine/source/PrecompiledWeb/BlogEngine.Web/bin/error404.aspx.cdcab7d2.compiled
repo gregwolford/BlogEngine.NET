@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/error404.aspx" hash="c4743150e" filehash="db4681f6f644706e" flags="110000" assembly="App_Web_error404.aspx.cdcab7d2" type="ASP.error404_aspx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/error404.aspx" />
+        <filedep name="/BlogEngine.Web/error404.aspx.cs" />
+    </filedeps>
+</preserve>

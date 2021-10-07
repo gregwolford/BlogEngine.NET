@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/contact.aspx" hash="c4743150e" filehash="e3040201cccc9b6c" flags="110000" assembly="App_Web_contact.aspx.cdcab7d2" type="ASP.contact_aspx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/contact.aspx" />
+        <filedep name="/BlogEngine.Web/contact.aspx.cs" />
+    </filedeps>
+</preserve>

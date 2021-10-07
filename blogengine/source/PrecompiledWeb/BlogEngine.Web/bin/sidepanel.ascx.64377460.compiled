@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/themes/Standard/SidePanel.ascx" hash="c4743150e" filehash="422f6f021536893b" flags="110000" assembly="App_Web_sidepanel.ascx.64377460" type="ASP.themes_standard_sidepanel_ascx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/admin/menu.ascx" />
+        <filedep name="/BlogEngine.Web/admin/menu.ascx.cs" />
+        <filedep name="/BlogEngine.Web/themes/Standard/SidePanel.ascx" />
+        <filedep name="/BlogEngine.Web/themes/Standard/SidePanel.ascx.cs" />
+    </filedeps>
+</preserve>

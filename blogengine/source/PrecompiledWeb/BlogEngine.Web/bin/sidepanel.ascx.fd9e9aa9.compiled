@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/themes/TheGreenHouse/SidePanel.ascx" hash="c4743150e" filehash="fe5ebe759b8651c1" flags="110000" assembly="App_Web_sidepanel.ascx.fd9e9aa9" type="ASP.themes_thegreenhouse_sidepanel_ascx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/admin/menu.ascx" />
+        <filedep name="/BlogEngine.Web/admin/menu.ascx.cs" />
+        <filedep name="/BlogEngine.Web/themes/TheGreenHouse/SidePanel.ascx" />
+        <filedep name="/BlogEngine.Web/themes/TheGreenHouse/SidePanel.ascx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/search.aspx" hash="c4743150e" filehash="d072e442f8148bb3" flags="110000" assembly="App_Web_search.aspx.cdcab7d2" type="ASP.search_aspx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/search.aspx" />
+        <filedep name="/BlogEngine.Web/search.aspx.cs" />
+    </filedeps>
+</preserve>

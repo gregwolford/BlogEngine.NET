@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/admin/admin1.master" hash="c3ff6127f" filehash="de1b636dc054a509" flags="110000" assembly="App_Web_admin1.master.fdf7a39c" type="ASP.admin_admin1_master">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/admin/admin1.master" />
+        <filedep name="/BlogEngine.Web/admin/admin1.master.cs" />
+        <filedep name="/BlogEngine.Web/admin/menu.ascx" />
+        <filedep name="/BlogEngine.Web/admin/menu.ascx.cs" />
+    </filedeps>
+</preserve>

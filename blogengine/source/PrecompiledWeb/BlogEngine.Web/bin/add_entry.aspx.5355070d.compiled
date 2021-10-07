@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/admin/Pages/Add_entry.aspx" hash="c3ff6127f" filehash="d4a1fbaee85c9f56" flags="110000" assembly="App_Web_add_entry.aspx.5355070d" type="ASP.admin_pages_add_entry_aspx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/admin/admin1.master" />
+        <filedep name="/BlogEngine.Web/admin/admin1.master.cs" />
+        <filedep name="/BlogEngine.Web/admin/htmlEditor.ascx" />
+        <filedep name="/BlogEngine.Web/admin/htmlEditor.ascx.cs" />
+        <filedep name="/BlogEngine.Web/admin/menu.ascx" />
+        <filedep name="/BlogEngine.Web/admin/menu.ascx.cs" />
+        <filedep name="/BlogEngine.Web/admin/Pages/Add_entry.aspx" />
+        <filedep name="/BlogEngine.Web/admin/Pages/Add_entry.aspx.cs" />
+        <filedep name="/BlogEngine.Web/admin/tinyMCE.ascx" />
+        <filedep name="/BlogEngine.Web/admin/tinyMCE.ascx.cs" />
+    </filedeps>
+</preserve>

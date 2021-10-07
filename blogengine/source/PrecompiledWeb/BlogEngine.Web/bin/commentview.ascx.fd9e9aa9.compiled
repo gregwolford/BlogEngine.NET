@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/themes/TheGreenHouse/CommentView.ascx" hash="c4743150e" filehash="fffff30a69ae61fb" flags="110000" assembly="App_Web_commentview.ascx.fd9e9aa9" type="ASP.themes_thegreenhouse_commentview_ascx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/themes/TheGreenHouse/CommentView.ascx" />
+    </filedeps>
+</preserve>

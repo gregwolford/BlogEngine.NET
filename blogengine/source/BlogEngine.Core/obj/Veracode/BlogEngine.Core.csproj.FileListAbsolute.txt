@@ -1,0 +1,18 @@
+C:\partnerapps\partnerapps_src\blogengine\source\BlogEngine.Core\bin\Veracode\BlogEngine.Core.dll
+C:\partnerapps\partnerapps_src\blogengine\source\BlogEngine.Core\bin\Veracode\BlogEngine.Core.pdb
+C:\partnerapps\partnerapps_src\blogengine\source\BlogEngine.Core\bin\Veracode\BlogEngine.Core.XML
+C:\partnerapps\partnerapps_src\blogengine\source\BlogEngine.Core\obj\Veracode\BlogEngine.Core.csprojResolveAssemblyReference.cache
+C:\partnerapps\partnerapps_src\blogengine\source\BlogEngine.Core\obj\Veracode\BlogEngine.Core.dll
+C:\partnerapps\partnerapps_src\blogengine\source\BlogEngine.Core\obj\Veracode\BlogEngine.Core.pdb
+C:\Users\phayes\Documents\Visual Studio 2012\Projects\blogengine\source\BlogEngine.Core\bin\Veracode\BlogEngine.Core.dll
+C:\Users\phayes\Documents\Visual Studio 2012\Projects\blogengine\source\BlogEngine.Core\bin\Veracode\BlogEngine.Core.pdb
+C:\Users\phayes\Documents\Visual Studio 2012\Projects\blogengine\source\BlogEngine.Core\bin\Veracode\BlogEngine.Core.XML
+C:\Users\phayes\Documents\Visual Studio 2012\Projects\blogengine\source\BlogEngine.Core\obj\Veracode\BlogEngine.Core.csprojResolveAssemblyReference.cache
+C:\Users\phayes\Documents\Visual Studio 2012\Projects\blogengine\source\BlogEngine.Core\obj\Veracode\BlogEngine.Core.dll
+C:\Users\phayes\Documents\Visual Studio 2012\Projects\blogengine\source\BlogEngine.Core\obj\Veracode\BlogEngine.Core.pdb
+C:\Users\Administrator\Documents\blogengine.net\blogengine\source\BlogEngine.Core\bin\Veracode\BlogEngine.Core.dll
+C:\Users\Administrator\Documents\blogengine.net\blogengine\source\BlogEngine.Core\bin\Veracode\BlogEngine.Core.pdb
+C:\Users\Administrator\Documents\blogengine.net\blogengine\source\BlogEngine.Core\bin\Veracode\BlogEngine.Core.XML
+C:\Users\Administrator\Documents\blogengine.net\blogengine\source\BlogEngine.Core\obj\Veracode\BlogEngine.Core.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\blogengine.net\blogengine\source\BlogEngine.Core\obj\Veracode\BlogEngine.Core.dll
+C:\Users\Administrator\Documents\blogengine.net\blogengine\source\BlogEngine.Core\obj\Veracode\BlogEngine.Core.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/themes/Dirtylicious/PostView.ascx" hash="c4743150e" filehash="1e9154814b18" flags="110000" assembly="App_Web_postview.ascx.87775228" type="ASP.themes_dirtylicious_postview_ascx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/themes/Dirtylicious/PostView.ascx" />
+    </filedeps>
+</preserve>

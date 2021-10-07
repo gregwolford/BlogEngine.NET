@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/admin/Pages/Controls.aspx" hash="c3ff6127f" filehash="aaa71c43bc1cb44c" flags="110000" assembly="App_Web_controls.aspx.5355070d" type="ASP.admin_pages_controls_aspx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/admin/admin1.master" />
+        <filedep name="/BlogEngine.Web/admin/admin1.master.cs" />
+        <filedep name="/BlogEngine.Web/admin/menu.ascx" />
+        <filedep name="/BlogEngine.Web/admin/menu.ascx.cs" />
+        <filedep name="/BlogEngine.Web/admin/Pages/Controls.aspx" />
+        <filedep name="/BlogEngine.Web/admin/Pages/Controls.aspx.cs" />
+    </filedeps>
+</preserve>

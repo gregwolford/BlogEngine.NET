@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/themes/Standard/site.master" hash="c4743150e" filehash="9104b18c38db327a" flags="110000" assembly="App_Web_site.master.64377460" type="ASP.themes_standard_site_master">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/admin/menu.ascx" />
+        <filedep name="/BlogEngine.Web/admin/menu.ascx.cs" />
+        <filedep name="/BlogEngine.Web/themes/Standard/SidePanel.ascx" />
+        <filedep name="/BlogEngine.Web/themes/Standard/SidePanel.ascx.cs" />
+        <filedep name="/BlogEngine.Web/themes/Standard/site.master" />
+        <filedep name="/BlogEngine.Web/themes/Standard/site.master.cs" />
+    </filedeps>
+</preserve>

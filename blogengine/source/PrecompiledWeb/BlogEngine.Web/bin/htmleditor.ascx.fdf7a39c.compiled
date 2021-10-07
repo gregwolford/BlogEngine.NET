@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/admin/htmlEditor.ascx" hash="c3ff6127f" filehash="39063d4debf3680" flags="110000" assembly="App_Web_htmleditor.ascx.fdf7a39c" type="ASP.admin_htmleditor_ascx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/admin/htmlEditor.ascx" />
+        <filedep name="/BlogEngine.Web/admin/htmlEditor.ascx.cs" />
+        <filedep name="/BlogEngine.Web/admin/tinyMCE.ascx" />
+        <filedep name="/BlogEngine.Web/admin/tinyMCE.ascx.cs" />
+    </filedeps>
+</preserve>

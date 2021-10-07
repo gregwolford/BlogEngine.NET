@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/admin/Extension Manager/Default.aspx" hash="c3ff6127f" filehash="d1e73037aae7fa7d" flags="110000" assembly="App_Web_default.aspx.79dc0208" type="ASP.admin_extension_manager_default_aspx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/admin/admin1.master" />
+        <filedep name="/BlogEngine.Web/admin/admin1.master.cs" />
+        <filedep name="/BlogEngine.Web/admin/Extension Manager/Default.aspx" />
+        <filedep name="/BlogEngine.Web/admin/Extension Manager/Default.aspx.cs" />
+        <filedep name="/BlogEngine.Web/admin/Extension Manager/Editor.ascx" />
+        <filedep name="/BlogEngine.Web/admin/Extension Manager/Editor.ascx.cs" />
+        <filedep name="/BlogEngine.Web/admin/Extension Manager/Extensions.ascx" />
+        <filedep name="/BlogEngine.Web/admin/Extension Manager/Extensions.ascx.cs" />
+        <filedep name="/BlogEngine.Web/admin/Extension Manager/Settings.ascx" />
+        <filedep name="/BlogEngine.Web/admin/Extension Manager/Settings.ascx.cs" />
+        <filedep name="/BlogEngine.Web/admin/menu.ascx" />
+        <filedep name="/BlogEngine.Web/admin/menu.ascx.cs" />
+    </filedeps>
+</preserve>

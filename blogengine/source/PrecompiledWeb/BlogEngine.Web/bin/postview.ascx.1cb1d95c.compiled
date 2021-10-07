@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/themes/Terrafirma/PostView.ascx" hash="c4743150e" filehash="ffffdc0ded337614" flags="110000" assembly="App_Web_postview.ascx.1cb1d95c" type="ASP.themes_terrafirma_postview_ascx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/themes/Terrafirma/PostView.ascx" />
+    </filedeps>
+</preserve>

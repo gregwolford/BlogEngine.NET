@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/admin/Extension Manager/Extensions.ascx" hash="c3ff6127f" filehash="c45b4fec12fd04b8" flags="110000" assembly="App_Web_extensions.ascx.79dc0208" type="ASP.admin_extension_manager_extensions_ascx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/admin/Extension Manager/Extensions.ascx" />
+        <filedep name="/BlogEngine.Web/admin/Extension Manager/Extensions.ascx.cs" />
+    </filedeps>
+</preserve>

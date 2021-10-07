@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/page.aspx" hash="c4743150e" filehash="23d4dab8176289d7" flags="110000" assembly="App_Web_page.aspx.cdcab7d2" type="ASP.page_aspx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/page.aspx" />
+        <filedep name="/BlogEngine.Web/page.aspx.cs" />
+    </filedeps>
+</preserve>

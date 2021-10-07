@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/admin/Pages/Settings.aspx" hash="c3ff6127f" filehash="3e2be3ce883d8641" flags="110000" assembly="App_Web_settings.aspx.5355070d" type="ASP.admin_pages_settings_aspx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/admin/admin1.master" />
+        <filedep name="/BlogEngine.Web/admin/admin1.master.cs" />
+        <filedep name="/BlogEngine.Web/admin/menu.ascx" />
+        <filedep name="/BlogEngine.Web/admin/menu.ascx.cs" />
+        <filedep name="/BlogEngine.Web/admin/Pages/Settings.aspx" />
+        <filedep name="/BlogEngine.Web/admin/Pages/Settings.aspx.cs" />
+    </filedeps>
+</preserve>

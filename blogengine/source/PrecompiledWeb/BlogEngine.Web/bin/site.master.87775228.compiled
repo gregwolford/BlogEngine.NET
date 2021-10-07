@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/themes/Dirtylicious/site.master" hash="c4743150e" filehash="7fc5d8bff4e2752e" flags="110000" assembly="App_Web_site.master.87775228" type="ASP.themes_dirtylicious_site_master">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/admin/menu.ascx" />
+        <filedep name="/BlogEngine.Web/admin/menu.ascx.cs" />
+        <filedep name="/BlogEngine.Web/themes/Dirtylicious/site.master" />
+        <filedep name="/BlogEngine.Web/themes/Dirtylicious/site.master.cs" />
+    </filedeps>
+</preserve>

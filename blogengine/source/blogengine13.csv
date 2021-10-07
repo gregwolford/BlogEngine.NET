@@ -1,0 +1,21 @@
+FileName,LineNumber,CWEID,Comment
+source/BlogEngine.Web/admin/Pages/Web.config,71,306,insufficient auth check (should be admin-only)
+source/BlogEngine.Core/API/MetaWeblog/MetaWeblogHandler.cs,90,78,execute random file
+source/BlogEngine.Core/API/MetaWeblog/MetaWeblogHandler.cs,606,305,backdoor-style authentication bypass 
+source/BlogEngine.Core/Providers/XmlProvider/XmlMembershipProvider.cs,175,305,backdoor-style authentication bypass 
+source/BlogEngine.Core/Web/Controls/BlogBasePage.cs,41,80,xss (arbitrary redirect)
+source/BlogEngine.Web/contact.aspx.cs,22,80,xss (arbitrary redirect)
+source/BlogEngine.Core/Web/Controls/BlogBasePage.cs,297,80,xss (failure to escape)
+source/BlogEngine.Core/Providers/MSSQLBlogProvider.cs,551,89,sql injection
+source/BlogEngine.Web/admin/Extension Manager/Editor.ascx.cs,25,80,xss (failure to escape data from an arbitrary file)
+source/BlogEngine.Web/admin/Extension Manager/Editor.ascx.cs,25,285,reads data from an arbitrary file
+source/BlogEngine.Web/App_Code/Controls/SearchBox.cs,60,80,xss (fairly indirect xss through a web control)
+source/BlogEngine.Web/App_Code/Controls/AuthorList.cs,128,80,xss (xss through a web control)
+source/BlogEngine.Web/App_Code/Controls/AuthorList.cs,129,80,xss (xss through a web control)
+source/BlogEngine.Web/api/BlogImporter.asmx,65,304,authentication commented out
+source/BlogEngine.Web/default.aspx.cs,16,80,xss (direct write)
+source/BlogEngine.Web/default.aspx.cs,48,80,xss (direct write with Request.RawUrl)
+source/BlogEngine.Web/admin/Pages/Categories.aspx,20,80,xss (escape commented out)
+source/BlogEngine.Web/admin/Pages/referrers.aspx.cs,97,80,xss (html-encoding of data in MakeShortUrl() commented out; data table field is being populated with potentially unescaped db data)
+source/BlogEngine.Web/App_Code/Controls/CategoryList.cs,104,80,xss (InnerHtml target; key should be escaped)
+source/BlogEngine.Web/App_Code/Controls/CategoryList.cs,107,80,xss (InnerHtml target; traditional query-string source)

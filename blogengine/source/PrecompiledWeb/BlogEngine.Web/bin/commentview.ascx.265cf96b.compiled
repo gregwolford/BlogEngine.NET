@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/themes/Mobile/CommentView.ascx" hash="c4743150e" filehash="c9e4e4fda0e" flags="110000" assembly="App_Web_commentview.ascx.265cf96b" type="ASP.themes_mobile_commentview_ascx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/themes/Mobile/CommentView.ascx" />
+    </filedeps>
+</preserve>

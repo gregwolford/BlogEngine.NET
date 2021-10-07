@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/admin/Pages/Blogroll.aspx" hash="c3ff6127f" filehash="8ec62a6730283f94" flags="110000" assembly="App_Web_blogroll.aspx.5355070d" type="ASP.admin_pages_blogroll_aspx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/admin/admin1.master" />
+        <filedep name="/BlogEngine.Web/admin/admin1.master.cs" />
+        <filedep name="/BlogEngine.Web/admin/menu.ascx" />
+        <filedep name="/BlogEngine.Web/admin/menu.ascx.cs" />
+        <filedep name="/BlogEngine.Web/admin/Pages/Blogroll.aspx" />
+        <filedep name="/BlogEngine.Web/admin/Pages/Blogroll.aspx.cs" />
+    </filedeps>
+</preserve>

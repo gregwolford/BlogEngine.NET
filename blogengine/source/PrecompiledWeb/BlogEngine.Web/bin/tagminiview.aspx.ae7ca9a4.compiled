@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/api/TagMiniView.aspx" hash="c4743150e" filehash="24f969cd44728f8d" flags="110000" assembly="App_Web_tagminiview.aspx.ae7ca9a4" type="ASP.api_tagminiview_aspx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/api/TagMiniView.aspx" />
+        <filedep name="/BlogEngine.Web/api/TagMiniView.aspx.cs" />
+    </filedeps>
+</preserve>

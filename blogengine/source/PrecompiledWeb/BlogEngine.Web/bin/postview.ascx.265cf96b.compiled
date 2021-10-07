@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/themes/Mobile/PostView.ascx" hash="c4743150e" filehash="35791700f7d" flags="110000" assembly="App_Web_postview.ascx.265cf96b" type="ASP.themes_mobile_postview_ascx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/themes/Mobile/PostView.ascx" />
+    </filedeps>
+</preserve>

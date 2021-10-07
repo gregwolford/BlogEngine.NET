@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfManagedExtension xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ManagedExtension Name="BBCode">
+    <Version>1.3</Version>
+    <Description>Converts BBCode to XHTML in the comments</Description>
+    <Author>&lt;a href="http://dotnetblogengine.net"&gt;BlogEngine.NET&lt;/a&gt;</Author>
+    <AdminPage />
+    <Enabled>true</Enabled>
+    <Settings>
+      <Help>Converts BBCode to XHTML in the comments. Close tag is optional.</Help>
+      <Delimiter>44</Delimiter>
+      <Parameters>
+        <Name>Code</Name>
+        <Label>Code</Label>
+        <MaxLength>20</MaxLength>
+        <Required>true</Required>
+        <KeyField>false</KeyField>
+        <Values>b</Values>
+        <Values>i</Values>
+        <Values>u</Values>
+        <Values>quote</Values>
+      </Parameters>
+      <Parameters>
+        <Name>OpenTag</Name>
+        <Label>Open Tag</Label>
+        <MaxLength>150</MaxLength>
+        <Required>true</Required>
+        <KeyField>false</KeyField>
+        <Values>strong</Values>
+        <Values>em</Values>
+        <Values>span style="text-decoration:underline"</Values>
+        <Values>cite title="Quote"</Values>
+      </Parameters>
+      <Parameters>
+        <Name>CloseTag</Name>
+        <Label>Close Tag</Label>
+        <MaxLength>100</MaxLength>
+        <Required>false</Required>
+        <KeyField>false</KeyField>
+        <Values />
+        <Values />
+        <Values>span</Values>
+        <Values>cite</Values>
+      </Parameters>
+      <KeyField>Code</KeyField>
+      <IsScalar>false</IsScalar>
+    </Settings>
+  </ManagedExtension>
+  <ManagedExtension Name="BreakPost">
+    <Version>1.2</Version>
+    <Description>Breaks a post where [more] is found in the body and adds a link to full post</Description>
+    <Author>BlogEngine.NET</Author>
+    <AdminPage />
+    <Enabled>true</Enabled>
+    <Settings xsi:nil="true" />
+  </ManagedExtension>
+  <ManagedExtension Name="CodeFormatterExtension">
+    <Version>0.1</Version>
+    <Description>Converts text to formatted syntax highlighted code (beta).</Description>
+    <Author>www.manoli.net</Author>
+    <AdminPage />
+    <Enabled>true</Enabled>
+    <Settings xsi:nil="true" />
+  </ManagedExtension>
+  <ManagedExtension Name="ResolveLinks">
+    <Version>1.3</Version>
+    <Description>Auto resolves URLs in the comments and turn them into valid hyperlinks.</Description>
+    <Author>BlogEngine.NET</Author>
+    <AdminPage />
+    <Enabled>true</Enabled>
+    <Settings xsi:nil="true" />
+  </ManagedExtension>
+  <ManagedExtension Name="SendCommentMail">
+    <Version>1.3</Version>
+    <Description>Sends an e-mail to the blog owner whenever a comment is added</Description>
+    <Author>BlogEngine.NET</Author>
+    <AdminPage />
+    <Enabled>true</Enabled>
+    <Settings xsi:nil="true" />
+  </ManagedExtension>
+  <ManagedExtension Name="SendPings">
+    <Version>1.3</Version>
+    <Description>Pings all the ping services specified on the PingServices admin page and send track- and pingbacks</Description>
+    <Author>BlogEngine.NET</Author>
+    <AdminPage />
+    <Enabled>true</Enabled>
+    <Settings xsi:nil="true" />
+  </ManagedExtension>
+  <ManagedExtension Name="Smilies">
+    <Version>1.2</Version>
+    <Description>Converts ASCII smilies into real smilies in the comments</Description>
+    <Author>BlogEngine.NET</Author>
+    <AdminPage />
+    <Enabled>true</Enabled>
+    <Settings xsi:nil="true" />
+  </ManagedExtension>
+</ArrayOfManagedExtension>

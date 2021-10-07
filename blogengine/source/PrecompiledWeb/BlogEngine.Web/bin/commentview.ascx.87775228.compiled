@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/themes/Dirtylicious/CommentView.ascx" hash="c4743150e" filehash="31558343ff35" flags="110000" assembly="App_Web_commentview.ascx.87775228" type="ASP.themes_dirtylicious_commentview_ascx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/themes/Dirtylicious/CommentView.ascx" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/admin/menu.ascx" hash="c3ff6127f" filehash="82b929760e05aaee" flags="110000" assembly="App_Web_menu.ascx.fdf7a39c" type="ASP.admin_menu_ascx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/admin/menu.ascx" />
+        <filedep name="/BlogEngine.Web/admin/menu.ascx.cs" />
+    </filedeps>
+</preserve>

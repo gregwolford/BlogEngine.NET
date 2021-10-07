@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/themes/Leaves/site.master" hash="c4743150e" filehash="d95a23316e75d74" flags="110000" assembly="App_Web_site.master.bf97b69e" type="ASP.themes_leaves_site_master">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/admin/menu.ascx" />
+        <filedep name="/BlogEngine.Web/admin/menu.ascx.cs" />
+        <filedep name="/BlogEngine.Web/themes/Leaves/site.master" />
+        <filedep name="/BlogEngine.Web/themes/Leaves/site.master.cs" />
+    </filedeps>
+</preserve>

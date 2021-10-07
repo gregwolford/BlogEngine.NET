@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/post.aspx" hash="c4743150e" filehash="2ef5e5176a3169d1" flags="110000" assembly="App_Web_post.aspx.cdcab7d2" type="ASP.post_aspx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/post.aspx" />
+        <filedep name="/BlogEngine.Web/post.aspx.cs" />
+        <filedep name="/BlogEngine.Web/User controls/CommentView.ascx" />
+        <filedep name="/BlogEngine.Web/User controls/CommentView.ascx.cs" />
+    </filedeps>
+</preserve>

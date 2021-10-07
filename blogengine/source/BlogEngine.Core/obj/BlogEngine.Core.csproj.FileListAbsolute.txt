@@ -1,0 +1,18 @@
+C:\3_CSHARP\BlogEngine.Core\bin\Debug\BlogEngine.Core.XML
+C:\3_CSHARP\BlogEngine.Core\bin\Debug\BlogEngine.Core.dll
+C:\3_CSHARP\BlogEngine.Core\bin\Debug\BlogEngine.Core.pdb
+C:\3_CSHARP\BlogEngine.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\3_CSHARP\BlogEngine.Core\obj\Debug\BlogEngine.Core.dll
+C:\3_CSHARP\BlogEngine.Core\obj\Debug\BlogEngine.Core.pdb
+C:\Documents and Settings\b\Desktop\sabotaged-dotnet\blogenginedotnet-1.3\source\BlogEngine.Core\bin\Debug\BlogEngine.Core.dll
+C:\Documents and Settings\b\Desktop\sabotaged-dotnet\blogenginedotnet-1.3\source\BlogEngine.Core\bin\Debug\BlogEngine.Core.pdb
+C:\Documents and Settings\b\Desktop\sabotaged-dotnet\blogenginedotnet-1.3\source\BlogEngine.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\b\Desktop\sabotaged-dotnet\blogenginedotnet-1.3\source\BlogEngine.Core\obj\Debug\BlogEngine.Core.dll
+C:\Documents and Settings\b\Desktop\sabotaged-dotnet\blogenginedotnet-1.3\source\BlogEngine.Core\obj\Debug\BlogEngine.Core.pdb
+C:\Documents and Settings\b\Desktop\sabotaged-dotnet\blogenginedotnet-1.3\source\BlogEngine.Core\bin\Debug\BlogEngine.Core.XML
+C:\Documents and Settings\bcreighton\Desktop\sabotaged-dotnet\blogenginedotnet-1.3\source\BlogEngine.Core\bin\Debug\BlogEngine.Core.XML
+C:\Documents and Settings\bcreighton\Desktop\sabotaged-dotnet\blogenginedotnet-1.3\source\BlogEngine.Core\bin\Debug\BlogEngine.Core.dll
+C:\Documents and Settings\bcreighton\Desktop\sabotaged-dotnet\blogenginedotnet-1.3\source\BlogEngine.Core\bin\Debug\BlogEngine.Core.pdb
+C:\Documents and Settings\bcreighton\Desktop\sabotaged-dotnet\blogenginedotnet-1.3\source\BlogEngine.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bcreighton\Desktop\sabotaged-dotnet\blogenginedotnet-1.3\source\BlogEngine.Core\obj\Debug\BlogEngine.Core.dll
+C:\Documents and Settings\bcreighton\Desktop\sabotaged-dotnet\blogenginedotnet-1.3\source\BlogEngine.Core\obj\Debug\BlogEngine.Core.pdb

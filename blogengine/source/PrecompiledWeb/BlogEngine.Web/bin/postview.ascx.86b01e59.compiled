@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/themes/Cogitation/PostView.ascx" hash="c4743150e" filehash="c51d155da2a" flags="110000" assembly="App_Web_postview.ascx.86b01e59" type="ASP.themes_cogitation_postview_ascx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/themes/Cogitation/PostView.ascx" />
+    </filedeps>
+</preserve>

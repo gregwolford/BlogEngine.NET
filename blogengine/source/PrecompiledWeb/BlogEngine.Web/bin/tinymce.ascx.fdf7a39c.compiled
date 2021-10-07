@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/admin/tinyMCE.ascx" hash="c3ff6127f" filehash="e2a07b5acb50c620" flags="110000" assembly="App_Web_tinymce.ascx.fdf7a39c" type="ASP.admin_tinymce_ascx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/admin/tinyMCE.ascx" />
+        <filedep name="/BlogEngine.Web/admin/tinyMCE.ascx.cs" />
+    </filedeps>
+</preserve>

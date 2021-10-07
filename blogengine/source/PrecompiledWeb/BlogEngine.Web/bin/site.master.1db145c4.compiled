@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/themes/Indigo/site.master" hash="c4743150e" filehash="8b6187dc12380cf0" flags="110000" assembly="App_Web_site.master.1db145c4" type="ASP.themes_indigo_site_master">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/admin/menu.ascx" />
+        <filedep name="/BlogEngine.Web/admin/menu.ascx.cs" />
+        <filedep name="/BlogEngine.Web/themes/Indigo/site.master" />
+        <filedep name="/BlogEngine.Web/themes/Indigo/site.master.cs" />
+    </filedeps>
+</preserve>

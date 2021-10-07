@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/BlogEngine.Web/themes/Terrafirma/CommentView.ascx" hash="c4743150e" filehash="fffff73a932718b8" flags="110000" assembly="App_Web_commentview.ascx.1cb1d95c" type="ASP.themes_terrafirma_commentview_ascx">
+    <filedeps>
+        <filedep name="/BlogEngine.Web/themes/Terrafirma/CommentView.ascx" />
+    </filedeps>
+</preserve>
